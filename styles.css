@@ -67,12 +67,8 @@ p.dark-mode {
   text-align: center;
 }
 
-#navbar .nav-link:hover {
-  background-color: #1e1e1e;
-  color: #fff;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
-  transform: translate3d(0, -2px, 0);
-  border-radius: 3px;
+nav li:hover {
+  background-color: #333;
 }
 
 /* Main Content Styles */
